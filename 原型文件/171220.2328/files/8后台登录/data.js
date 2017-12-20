@@ -1,0 +1,265 @@
+﻿$axure.loadCurrentPage({
+  "url":"8后台登录.html",
+  "generationDate":new Date(1513783706661.66),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"fe4f765cab34469cbf67aaf616495243",
+    "type":"Axure:Page",
+    "name":"8后台登录",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"0fdf806f81014764b6f8d3b5e0cd723e",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":10},
+            "size":{
+              "width":660,
+              "height":470}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1ad0fd3040a74c83b55f3372a1e7450d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":10},
+                "size":{
+                  "width":660,
+                  "height":470}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/8后台登录/u0.png"}},
+{
+          "id":"6136ae66d1994e73b374df032813609c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h2",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":279.5,
+              "y":32},
+            "size":{
+              "width":121,
+              "height":28}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6e383ead1c8b4252846d640bbb329e87",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":279.5,
+                  "y":32},
+                "size":{
+                  "width":121,
+                  "height":28}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"87d2b4c832db4694b9087812f0b68eb7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h3",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":190.5,
+              "y":72},
+            "size":{
+              "width":55,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ea8ed7c6e3cd4ece8a2f47c47045a7ee",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":190.5,
+                  "y":72},
+                "size":{
+                  "width":55,
+                  "height":22}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"0ab4213c22a545e8bcc2ef2b27d308ce",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":396.5,
+              "y":105},
+            "size":{
+              "width":94,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"098acbc07871415ba61aed2ffba28de7",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":271.5,
+              "y":70},
+            "size":{
+              "width":219,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"d6c6ee2f4d0e4df9bede62ef95f60b4b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h3",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":190.5,
+              "y":107},
+            "size":{
+              "width":55,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1821584521c24076adb020b0e3be631d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":190.5,
+                  "y":107},
+                "size":{
+                  "width":55,
+                  "height":22}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f6a5c7ec83784c9581f10c4722fb7cb3",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":271.5,
+              "y":105},
+            "size":{
+              "width":112,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"bd6b9d9ce32f4a0a86488be3f1907fd6",
+          "label":"跳转到后台管理界面",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":190.5,
+              "y":160},
+            "size":{
+              "width":300,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 9后台管理界面",
+                      "target":{
+                        "targetType":"page",
+                        "url":"9后台管理界面.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "0fdf806f81014764b6f8d3b5e0cd723e":{
+      "scriptId":"u0"},
+    "1ad0fd3040a74c83b55f3372a1e7450d":{
+      "scriptId":"u1"},
+    "6136ae66d1994e73b374df032813609c":{
+      "scriptId":"u2"},
+    "6e383ead1c8b4252846d640bbb329e87":{
+      "scriptId":"u3"},
+    "87d2b4c832db4694b9087812f0b68eb7":{
+      "scriptId":"u4"},
+    "ea8ed7c6e3cd4ece8a2f47c47045a7ee":{
+      "scriptId":"u5"},
+    "0ab4213c22a545e8bcc2ef2b27d308ce":{
+      "scriptId":"u6"},
+    "098acbc07871415ba61aed2ffba28de7":{
+      "scriptId":"u7"},
+    "d6c6ee2f4d0e4df9bede62ef95f60b4b":{
+      "scriptId":"u8"},
+    "1821584521c24076adb020b0e3be631d":{
+      "scriptId":"u9"},
+    "f6a5c7ec83784c9581f10c4722fb7cb3":{
+      "scriptId":"u10"},
+    "bd6b9d9ce32f4a0a86488be3f1907fd6":{
+      "scriptId":"u11"}}});

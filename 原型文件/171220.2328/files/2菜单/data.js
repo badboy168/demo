@@ -1,0 +1,246 @@
+﻿$axure.loadCurrentPage({
+  "url":"2菜单.html",
+  "generationDate":new Date(1513783705106.55),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"fc6247b543b9466c9675459dcfbbc7e4",
+    "type":"Axure:Page",
+    "name":"2菜单",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"05c5e459003f45d6ad3e77ca0f0f0b9c",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontSize":"11px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":10,
+              "y":10},
+            "size":{
+              "width":280,
+              "height":470}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d5237f3e9b424d19ae17b7ba73bc5cea",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"11px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":10,
+                  "y":10},
+                "size":{
+                  "width":280,
+                  "height":470}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/1用户登录/u0.png"}},
+{
+          "id":"af060b3946344a3a87ade644e41a272e",
+          "label":"跳转到商品维修页面",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":30,
+              "y":180},
+            "size":{
+              "width":240,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 5商品维修",
+                      "target":{
+                        "targetType":"page",
+                        "url":"5商品维修.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"e7afa06fb1924f0aaa124a2c2cc1dbd8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h2",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":125.5,
+              "y":32},
+            "size":{
+              "width":49,
+              "height":28}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"463cbff9fb244364b6be97a3eebed101",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":125.5,
+                  "y":32},
+                "size":{
+                  "width":49,
+                  "height":28}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"7d8d891fb97042b981b0b158e3744d3d",
+          "label":"跳转到订管理页面",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":30,
+              "y":230},
+            "size":{
+              "width":240,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 6订单管理",
+                      "target":{
+                        "targetType":"page",
+                        "url":"6订单管理.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"00a106912f9c4755aa218dc57bc8219b",
+          "label":"跳转到旧品换新页面",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":30,
+              "y":130},
+            "size":{
+              "width":240,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 4旧品换新",
+                      "target":{
+                        "targetType":"page",
+                        "url":"4旧品换新.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"3869efe0124b462496b36dfb0207bbbd",
+          "label":"跳转到兑换现金券页面",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":30,
+              "y":80},
+            "size":{
+              "width":240,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 3兑换现金券",
+                      "target":{
+                        "targetType":"page",
+                        "url":"3兑换现金券.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "05c5e459003f45d6ad3e77ca0f0f0b9c":{
+      "scriptId":"u0"},
+    "d5237f3e9b424d19ae17b7ba73bc5cea":{
+      "scriptId":"u1"},
+    "af060b3946344a3a87ade644e41a272e":{
+      "scriptId":"u2"},
+    "e7afa06fb1924f0aaa124a2c2cc1dbd8":{
+      "scriptId":"u3"},
+    "463cbff9fb244364b6be97a3eebed101":{
+      "scriptId":"u4"},
+    "7d8d891fb97042b981b0b158e3744d3d":{
+      "scriptId":"u5"},
+    "00a106912f9c4755aa218dc57bc8219b":{
+      "scriptId":"u6"},
+    "3869efe0124b462496b36dfb0207bbbd":{
+      "scriptId":"u7"}}});
